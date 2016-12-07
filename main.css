@@ -1,28 +1,28 @@
-.rect{
-    border:50 solid green;
-    
+.rect {
+    border: 50 solid green;
     width: 0px;
     height: 0px;
-    
-    border-top:50px solid green;
-    border-right:50px solid red;
+    border-top: 50px solid green;
+    border-right: 50px solid red;
     border-bottom: 50px solid blue;
     border-left: 50px solid yellow;
 }
-.p1{
+
+.p1 {
     background: lightgreen;
-    width:200px;
-    height:50px;
+    width: 200px;
+    height: 50px;
     margin-left: 100px;
     border: green solid 6px;
-    border-bottom-style:dotted;
-    border-top-style:double;
+    border-bottom-style: dotted;
+    border-top-style: double;
 }
-.p2{
+
+.p2 {
     background: lightgreen;
-    width:150px;
-    height:250px;
+    width: 150px;
+    height: 250px;
     margin-left: 125px;
     border: green solid 6px;
-    border-top:0px;
+    border-top: 0px;
 }
